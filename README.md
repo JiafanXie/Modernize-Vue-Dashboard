@@ -18,7 +18,7 @@ Modernize is built with Most Popular Framework Vuetify. Comes with lots of ready
 ##  👀体验后台
 
 ### 管理后台
-地址：https://fanadmin.iove.top/admin （如遇网站要是打不开 🤣，请下载源码安装体验全部功能）
+地址：https://jiafanxie.github.io （如遇网站要是打不开 🤣，请下载源码安装体验全部功能）
 <br>
 账号：admin 密码：admin123
 
